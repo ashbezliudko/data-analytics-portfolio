@@ -28,6 +28,8 @@ Developed an illustrative three-tier Ideal Customer Profile (ICP) qualification 
 
 [View ICP Segmentation Workbook](Ash_Bezliudko_ICP_Portfolio.xlsx)
 
+![ICP Segmentation Dashboard](01_icp_dashboard.png)
+
 ### 2. Lead Enrichment & Prioritization
 
 **Skills:** Data Cleaning | Data Enrichment | Lead Scoring | Excel | Data Quality
@@ -42,6 +44,8 @@ Reconstructed a lead enrichment and prioritization workflow inspired by professi
 
 [View Lead Enrichment Workbook](Ash_Bezliudko_Lead_Enrichment_Prioritization.xlsx)
 
+![Lead Enrichment Dashboard](02_lead_dashboard.png)
+
 ### 3. New User Impact & Revenue Analysis
 
 **Skills:** Revenue Analytics | Marketing KPIs | Customer Acquisition | Excel | Data Visualization
@@ -55,6 +59,8 @@ Developed an illustrative analytical dashboard to evaluate customer acquisition 
 - Demonstrated how marketing analytics supports commercial decisions.
 
 [View Revenue Analytics Workbook](Ash_Bezliudko_New_User_Impact_Revenue.xlsx)
+
+![Revenue Analytics Dashboard](03_revenue_dashboard.png)
 
 ### 4. AI-Assisted Business Intelligence
 
@@ -71,6 +77,7 @@ Created an illustrative workflow demonstrating how AI can support business intel
 
 [View AI-Assisted BI Workbook](Ash_Bezliudko_AI_Assisted_Business_Intelligence.xlsx)
 
+![AI-Assisted BI Dashboard](04_ai_bi_dashboard.png)
 ---
 
 ## Technical Skills & Tools
